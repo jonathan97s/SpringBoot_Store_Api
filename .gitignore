@@ -1,0 +1,44 @@
+# Maven
+target/
+mvnw
+mvnw.cmd
+.mvn/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.iws.*
+*.ipr
+
+# Logs
+logs/
+*.log
+
+# Bytecode
+*.class
+
+# Compiled files
+*.jar
+*.war
+*.ear
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA #
+.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Caches #
+*.log
+.idea/
+
+# Docker
+docker-compose.yml
+docker-compose.override.yml
